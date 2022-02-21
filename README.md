@@ -31,6 +31,9 @@ MechaCar has uphill battle against well-established competitions. It is a new mo
 6. Performance. 
 8. Fuel economy 
 9. Safety 
+
+
+
 A good case study for them would be Tesla that is only car company in US that was launched from scratch and was successful. History and reliability have to be built overtime. However, other factors could be quantified and worked on deliver value to the consumer. To make themselves marketable they should offer something the other don't for example:
         1. When Hyundai and Kia launched in US they offered 10 years warranty even when their products were not reliable. 
         2. Tesla offered full electric car with over 200 miles range. 
